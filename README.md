@@ -1,5 +1,8 @@
 **State of Survival** 
 
+
+![image](https://raw.githubusercontent.com/abednarz210/State_of_Survival-/main/Taylor/heatmap_avg_life_exp.JPG)
+
 *Can Where You Live Determine Your Life Expecatancy?* 
 
 
